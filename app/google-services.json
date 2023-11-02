@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8865260178",
+    "project_id": "nirf-predictor",
+    "storage_bucket": "nirf-predictor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8865260178:android:0bed9c462764e99dbf3c4b",
+        "android_client_info": {
+          "package_name": "com.sagar.nirfpredictor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZZWHCPZ3kHx-SPFwCWsZYzcfN6zgF94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
